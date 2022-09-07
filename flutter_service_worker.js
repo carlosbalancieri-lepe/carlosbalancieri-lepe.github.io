@@ -28,7 +28,7 @@ const RESOURCES = {
 "assets/imagens/rota_ativa_animado.gif": "29ef1a33c16074b4f01c8c9f0a5e8d6a",
 "assets/imagens/route.png": "2051863632beb4e2bc7f79b50bf4206d",
 "assets/imagens/search.png": "5f7344aecbbbe51e1118e4bb19c031ec",
-"assets/NOTICES": "f7b2e2e2ffea984b1167cfdf6a4f625a",
+"assets/NOTICES": "c48aac9abaadffbf9f4cc3d1c5a9812b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -38,11 +38,11 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "6d4874f6de0af8b5f24a32e20c4f3a8d",
-"/": "6d4874f6de0af8b5f24a32e20c4f3a8d",
-"main.dart.js": "ad9c01d9a18e6edba1dd74567c779cce",
+"index.html": "694d69753ec5ef832fdc03ad128b1242",
+"/": "694d69753ec5ef832fdc03ad128b1242",
+"main.dart.js": "180f9608cc2bbb0a44c7bc2a3147b95b",
 "manifest.json": "5d7b3b00ac543635d259f6f0040bdefd",
-"version.json": "4c8429201faad4abc58315edcbb91b7b"
+"version.json": "b1434b1431faf3dd0acd98a9f596be32"
 };
 
 // The application shell files that are downloaded before a service worker can
